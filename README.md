@@ -1,3 +1,4 @@
 # Digital Iamge Procesing
-<img width="642" height="680" alt="image" src="https://github.com/user-attachments/assets/c6af765d-4774-40fc-b134-74b3b01ff6b4" />
+
+<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/173f1c54-c9ca-44d6-8e72-17b12f998e62" />
 
