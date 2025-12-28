@@ -2,7 +2,7 @@ import cv2
 import numpy as np
 import time
 
-cap = cv2.VideoCapture("output.avi")
+cap = cv2.VideoCapture("Monir.avi")
 while(True):
     ret, frame = cap.read()
     time.sleep(1/20) #inverse of frame rate , and it stays in screen 1/20 sec
@@ -30,3 +30,4 @@ cv2.destroyAllWindows()
 # cv2.waitKey(0)
 # cap.release()
 # cv2.destroyAllWindows()
+
