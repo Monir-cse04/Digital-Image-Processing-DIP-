@@ -5,6 +5,7 @@ real image and cropped image
 
 histogram an image
 
-![Uploading image.png…]()
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/e754cd75-6963-44ce-a88e-c9353605afba" />
+
 
 
